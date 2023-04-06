@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Charity K. Mutembei</h1>
-<h3 align="center">Junior Developer aspiring to enter the work force and contribute my skills to a dynamic and growing team. As a full stack developer with a certificate in programming and experience in HTML, CSS, JS, Python (Django), Angular, and React, I am excited to bring my skills and enthusiasm to a new role as a Junior Developer. My experience has given me practical knowledge of programming tech stacks and has honed my skills in collaborative software development. I am eager to continue learning and growing in a professional environment, and to make a meaningful contribution to a dynamic and growing team.</h3>
+<p align="center">Junior Developer aspiring to enter the work force and contribute my skills to a dynamic and growing team. As a full stack developer with a certificate in programming and experience in HTML, CSS, JS, Python (Django), Angular, and React, I am excited to bring my skills and enthusiasm to a new role as a Junior Developer. My experience has given me practical knowledge of programming tech stacks and has honed my skills in collaborative software development. I am eager to continue learning and growing in a professional environment, and to make a meaningful contribution to a dynamic and growing team.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-mutembei&label=Profile%20views&color=0e75b6&style=flat" alt="charity-mutembei" /> </p>
 
